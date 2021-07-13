@@ -1,5 +1,16 @@
-### Hi there 👋
+## Hello there 🐱‍👓
 
+----
+### Skils 🤹‍♀️
+- Java ☕
+- Angular
+- API Design 📃
+- Docker 🐳
+
+### Learning
+- Kubernetes
+- Distributed Systems
+ 
 <!--
 **sbuzas-kr/sbuzas-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
